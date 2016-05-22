@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodeInput</string>
+
+    <string name="toolbar_title">请输入验证码</string>
+</resources>
